@@ -1,0 +1,12 @@
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\Shared.Models.deps.json
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\Shared.Models.dll
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\ref\Shared.Models.dll
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\Shared.Models.pdb
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.AssemblyInfo.cs
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.dll
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\ref\Shared.Models.dll
+C:\Users\Master\source\repos\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.pdb
